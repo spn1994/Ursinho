@@ -189,6 +189,8 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 
+
+
 .home #particles-js {
   position: absolute;
   top: 0;
@@ -383,7 +385,7 @@ header .navbar ul li a:hover {
   flex: 1 1 35rem;
 }
 
-.sobre .linha .imagem img {
+.sobre .linha .imagem video {
   margin: 4rem;
   width: 30rem;
   height: auto;
@@ -394,7 +396,7 @@ header .navbar ul li a:hover {
   cursor: pointer;
 }
 
-.sobre .linha .imagem img:hover {
+.sobre .linha .imagem video:hover {
   mix-blend-mode: normal;
 }
 
